@@ -1,0 +1,1678 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.backimg {
+    background-image: url("picture/background\ pic.PNG");
+    height: 800px;
+    width: 100vw;
+}
+
+/* row 1 start */
+#nav {
+    background-color: #283454;
+    height: 85px;
+    width: 100vw;
+
+}
+
+
+.start {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+    top: 25px;
+    right: 70px;
+    padding-left: 15px;
+
+}
+
+.start:hover {
+    color: #10ccf4;
+}
+
+#logo {
+    color: skyblue;
+}
+
+#lgo {
+    display: inline-block;
+    margin: 0px 0px 30px 20px;
+}
+
+#event {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+#ticket {
+    background-color: #106cfc;
+    border-radius: 20px;
+    height: 50px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+#ticket:hover {
+    background-color: #10ccf4;
+}
+
+/* row 1 end */
+/* row 2 start */
+#row2 {
+    width: 100vw;
+}
+
+#leader {
+    color: skyblue;
+    margin-left: 450px;
+    font-size: 60px;
+    font-weight: bolder;
+    margin-top: 80px;
+    text-decoration: underline;
+}
+
+#conf {
+    color: white;
+    font-size: 60px;
+    font-weight: bolder;
+    margin-left: 360px;
+}
+
+#t1 {
+    border: 1px solid white;
+    color: white;
+    background: transparent;
+    margin-left: 500px;
+    padding: 10px;
+    margin-bottom: -20px;
+}
+
+#t2 {
+    border: 1px solid white;
+    color: white;
+    background: transparent;
+    position: relative;
+    right: 5px;
+    padding: 10px;
+}
+
+#downbut {
+
+    color: white;
+    margin-left: 400px;
+    background: none;
+    height: 50px;
+    width: 500px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+
+.frame {
+    height: 250px;
+    width: 400px;
+}
+
+/* row 2 end */
+/* row 3 start */
+#row3 {
+    width: 100vw;
+    padding: 0px 20px 0px 20px;
+}
+
+/* row 3 end */
+/* row 4 start */
+#row4 {
+    width: 100vw;
+    height: 600px;
+    background-color: white;
+}
+
+.story {
+    display: flex;
+    flex-direction: row;
+    padding: 120px 0px 0px 80px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.story1 {
+    display: flex;
+    flex-direction: row;
+    padding: 120px 0px 0px 80px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.our {
+    color: black;
+}
+
+.sty {
+    color: #10ccf4;
+    text-decoration: underline;
+}
+
+#content {
+    margin-left: 80px;
+    font-size: 35px;
+    font-weight: bold;
+
+}
+
+#cont2 {
+    margin-left: 80px;
+    color: grey;
+}
+
+#meetbtn {
+    width: 200px;
+    display: inline-block;
+    margin-left: 80px;
+    background: transparent;
+    color: #10ccf4;
+    border-radius: 50px;
+    border: 3px solid #10ccf4;
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+    padding: 10px 10px 10px 10px;
+
+}
+
+#checkbtn {
+    display: inline-block;
+    color: white;
+    background-color: #283454;
+    border-radius: 50px;
+    margin-left: 20px;
+    padding: 12px 20px 12px 20px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+#meetbtn:hover {
+    background-color: #10ccf4;
+    color: white;
+}
+
+#checkbtn:hover {
+    background-color: #10ccf4;
+}
+
+#cont3 {
+    margin-top: 210px;
+    font-size: 33px;
+    font-weight: 700;
+}
+
+.pics {
+    display: flex;
+    flex-direction: row;
+    margin-top: 70px;
+}
+
+.circle1 {
+    border-radius: 200px;
+    border-top-left-radius: 100px;
+    ;
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    height: 50px;
+}
+
+#people {
+    color: grey;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+/* row 4 close */
+/* row 5 start */
+.main {
+    background-color: #f0f8ff;
+    height: 750px;
+    width: 100vw;
+}
+
+#row5 {
+    width: 100vw;
+}
+
+#lorem {
+    margin-left: 80px;
+    margin-top: 10px;
+    font-size: 23px;
+    color: grey;
+}
+
+#mans {
+    margin: 90px 50px 0px 0px;
+    width: 550px;
+}
+
+#feature {
+    background-color: #106cfc;
+    position: relative;
+    bottom: 360px;
+    left: 440px;
+    height: 35px;
+}
+
+.animation {
+    width: 80%;
+    height: 70px;
+    background-color: white;
+    position: relative;
+    bottom: 130px;
+    left: 20px;
+    padding-left: 20px;
+}
+
+.animation:hover {
+    background-color: #10ccf4;
+    color: white;
+}
+
+#logan {
+    margin-top: 10px;
+    font-size: 23px;
+}
+
+#ceo {
+    color: grey;
+    margin-top: -18px;
+}
+
+#ceo:hover {
+    color: white;
+}
+
+/* row 5 end */
+/* row 6 start */
+#row6 {
+    width: 100vw;
+}
+
+.together {
+    width: 280px;
+    margin: -80px 50px 0px 30px;
+    padding-right: 30px;
+    ;
+}
+
+.natplanner {
+    width: 70%;
+    height: 60px;
+    background-color: white;
+    position: relative;
+    bottom: 85px;
+    left: 50px;
+    padding: 0px 0px 0px 20px;
+
+}
+
+#Natalie {
+    font-size: 25px;
+}
+
+#planner {
+    font-size: 15px;
+    color: grey;
+    margin-top: -20px;
+}
+
+.natplanner:hover {
+    background-color: skyblue;
+    color: white;
+}
+
+#planner:hover {
+    color: white;
+}
+
+.thcoach {
+    width: 70%;
+    height: 60px;
+    background-color: white;
+    position: relative;
+    bottom: 85px;
+    left: 50px;
+    padding: 0px 0px 0px 20px;
+}
+
+#thomas {
+    font-size: 25px;
+}
+
+#coach {
+    font-size: 15px;
+    color: grey;
+    margin-top: -20px;
+}
+
+.thcoach:hover {
+    background-color: #10ccf4;
+    color: white;
+}
+
+#coach:hover {
+    color: white;
+}
+
+.isaman {
+    width: 70%;
+    height: 60px;
+    background-color: white;
+    position: relative;
+    bottom: 85px;
+    left: 50px;
+    padding: 0px 0px 0px 20px;
+}
+
+#isabella {
+    font-size: 25px;
+}
+
+#manager {
+    font-size: 15px;
+    color: grey;
+    margin-top: -20px;
+}
+
+.isaman:hover {
+    background-color: #10ccf4;
+    color: white;
+}
+
+#manager:hover {
+    color: white;
+}
+
+.samspeak {
+    width: 70%;
+    height: 60px;
+    background-color: white;
+    position: relative;
+    bottom: 85px;
+    left: 50px;
+    padding: 0px 0px 0px 20px;
+}
+
+#samantha {
+    font-size: 25px;
+}
+
+#speaker {
+    font-size: 15px;
+    margin-top: -20px;
+    color: grey;
+}
+
+.samspeak:hover {
+    background-color: #10ccf4;
+    color: white;
+}
+
+#speaker:hover {
+    color: white;
+}
+
+/* row 6 end */
+/* row 7 start */
+.main2 {
+    width: 100vw;
+    height: 700px;
+    background-color: white;
+}
+
+#next {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    display: inline-block;
+    margin: 130px 0px 0px 450px;
+}
+
+#schedule {
+    color: #10ccf4;
+    font-size: 50px;
+    text-decoration: underline;
+    font-weight: bold;
+    display: inline-block;
+}
+
+#row8 {
+    width: 100vw;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+
+#card1 {
+    height: 130px;
+    width: 250px;
+    background-color: white;
+    padding-left: 20px;
+    margin-left: -80px;
+    box-shadow: 0px 0px 0px grey;
+    -webkit-transition: box-shadow .6s ease-out;
+    box-shadow: .8px .9px 3px grey;
+}
+
+#card1:hover {
+    box-shadow: 1px 8px 20px grey;
+    -webkit-transition: box-shadow .6s ease-in;
+}
+
+#dayone {
+    color: #10ccf4;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 15px;
+    ;
+}
+
+#july12 {
+    color: gray;
+    margin-top: -20px;
+}
+
+#card2 {
+    height: 130px;
+    width: 250px;
+    background-color: white;
+    padding-left: 20px;
+    margin-left: -100px;
+    box-shadow: 0px 0px 0px grey;
+    -webkit-transition: box-shadow .6s ease-out;
+    box-shadow: .8px .9px 3px grey;
+}
+
+#card2:hover {
+    box-shadow: 1px 8px 20px grey;
+    -webkit-transition: box-shadow .6s ease-in;
+}
+
+#daytwo {
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 15px;
+    ;
+}
+
+#july14 {
+    color: gray;
+    margin-top: -20px;
+}
+
+#card3 {
+    height: 130px;
+    width: 250px;
+    background-color: white;
+    padding-left: 20px;
+    margin-left: -120px;
+    box-shadow: 0px 0px 0px grey;
+    -webkit-transition: box-shadow .6s ease-out;
+    box-shadow: .8px .9px 3px grey;
+}
+
+#card3:hover {
+    box-shadow: 1px 8px 20px grey;
+    -webkit-transition: box-shadow .6s ease-in;
+}
+
+#daythree {
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 15px;
+    ;
+}
+
+#july16 {
+    color: gray;
+    margin-top: -20px;
+}
+
+
+#card4 {
+    height: 130px;
+    width: 250px;
+    background-color: white;
+    padding-left: 20px;
+    margin-left: -140px;
+    box-shadow: 0px 0px 0px grey;
+    -webkit-transition: box-shadow .6s ease-out;
+    box-shadow: .8px .9px 3px grey;
+}
+
+#card4:hover {
+    box-shadow: 1px 8px 20px grey;
+    -webkit-transition: box-shadow .6s ease-in;
+
+}
+
+#dayfour {
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 15px;
+    ;
+}
+
+#july18 {
+    color: gray;
+    margin-top: -20px;
+}
+
+
+/* row 8 close  */
+/* row 9 start */
+
+#row9 {
+    width: 100vw;
+}
+
+#meeting1 {
+    width: 400px;
+    border-radius: 30px;
+    margin: 50px 0px 0px 130px;
+}
+
+#circleman1 {
+    width: 70px;
+    border-radius: 70px;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+
+#startup {
+    font-size: 35px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+#free {
+    color: grey;
+    margin-left: 30px;
+}
+
+#nam {
+    font-size: 20px;
+}
+
+.fle {
+    display: flex;
+    flex-direction: row;
+}
+
+.wilson {
+    margin: 15px 0px 0px 50px;
+}
+
+#ce {
+    margin: -27px 0px 0px 150px;
+    color: grey;
+}
+
+#time {
+    font-size: 24px;
+    margin: 15px -40px 0px 60px;
+}
+
+/* row 9 close */
+/* row 10 start */
+#row10 {
+    width: 100vw;
+}
+
+#meeting2 {
+    width: 400px;
+    border-radius: 30px;
+    margin: 50px 0px 0px 130px;
+}
+
+#business {
+    font-size: 35px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+#mollis {
+    color: grey;
+    margin-left: 30px;
+}
+
+#circlegirl2 {
+    width: 70px;
+    border-radius: 70px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+#nam2 {
+    font-size: 20px;
+}
+
+.fle2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.event2 {
+    margin: 15px 0px 0px 50px;
+}
+
+#pl2 {
+    margin: -27px 0px 0px 150px;
+    color: grey;
+}
+
+#time2 {
+    font-size: 24px;
+    margin: 20px -40px 0px 80px;
+}
+
+#clock {
+    margin: 20px 0px 0px 55px;
+}
+
+#room {
+    margin-top: 20px;
+}
+
+/* row 10 close */
+/* row 11 start */
+#row11 {
+    width: 100vw;
+}
+
+#meeting3 {
+    width: 400px;
+    border-radius: 30px;
+    margin: 50px 0px 0px 130px;
+}
+
+#boots {
+    font-size: 35px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+#aptent {
+    color: grey;
+    margin-left: 30px;
+}
+
+#circleman3 {
+    width: 70px;
+    border-radius: 70px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+#nam3 {
+    font-size: 20px;
+}
+
+.fle3 {
+    display: flex;
+    flex-direction: row;
+}
+
+.event3 {
+    margin: 15px 0px 0px 50px;
+}
+
+#pl3 {
+    margin: -27px 0px 0px 150px;
+    color: grey;
+}
+
+#time3 {
+    font-size: 24px;
+    margin: 20px -40px 0px 80px;
+}
+
+#clock2 {
+    margin: 20px 0px 0px 55px;
+}
+
+#room2 {
+    margin-top: 20px;
+}
+
+/* row 11 close */
+/* row 12 start */
+.backimg2 {
+    background-image: url("picture/back2.PNG");
+    height: 350px;
+    width: 100vw;
+}
+
+#become {
+    margin: 100px 0px 0px 70px;
+    display: inline-block;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+#become2 {
+    display: inline-block;
+    color: #10ccf4;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#dol {
+    color: white;
+    margin: 0px 0px 0px 70px;
+    font-size: 20px;
+}
+
+#register {
+    border-radius: 25px;
+    color: black;
+    background-color: white;
+    font-weight: 500;
+    margin: 150px 0px 0px 0px;
+}
+
+#register:hover {
+    color: white;
+    background-color: #10ccf4;
+}
+
+/* row 12 end */
+/* row 13 start */
+
+#get {
+    font-size: 50px;
+    display: inline-block;
+    font-weight: bold;
+    margin: 100px 0px 0px 450px;
+}
+
+#tik {
+    font-size: 50px;
+    color: #10ccf4;
+    text-decoration: underline;
+    display: inline-block;
+    font-weight: bold;
+}
+
+#row13 {
+    width: 100vw;
+}
+
+#row14 {
+    background-color: #283454;
+    color: white;
+    height: 90px;
+    width: 370px;
+    font-size: 30px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-weight: bold;
+    position: relative;
+    left: 11px;
+
+}
+
+#bird {
+    margin: 20px 0px 0px 20px;
+}
+
+#dollar {
+    margin: 20px 0px 0px 80px;
+}
+
+#window1 {
+    width: 370px;
+    border-radius: 20px;
+    margin-left: 60px;
+    background-color: white;
+    height: 450px;
+    box-shadow: black;
+}
+
+.coffee {
+    margin: 20px 0px 0px 20px;
+    color: grey;
+    font-size: 20px;
+
+}
+
+.line {
+    width: 80%;
+    position: relative;
+    left: 20px;
+}
+
+#quick {
+    margin: 10px 0px 0px 20px;
+    color: grey;
+    font-size: 20px;
+}
+
+#flash1 {
+    width: 130px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #283454;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px 0px 20px;
+}
+
+#flash1:hover {
+    background-color: #10ccf4;
+}
+
+
+#row15 {
+    background-color: #283454;
+    color: white;
+    height: 90px;
+    width: 370px;
+    font-size: 30px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-weight: bold;
+    position: relative;
+    left: 11px;
+
+}
+
+#gold {
+    margin: 20px 0px 0px 20px;
+}
+
+#dollar2 {
+    margin: 20px 0px 0px 80px;
+}
+
+#window2 {
+    width: 370px;
+    border-radius: 20px;
+    margin-left: 30px;
+    background-color: white;
+    height: 450px;
+    box-shadow: black;
+}
+
+.coffee2 {
+    margin: 20px 0px 0px 20px;
+    color: grey;
+    font-size: 20px;
+
+}
+
+
+
+#quick2 {
+    margin: 10px 0px 0px 20px;
+    color: grey;
+    font-size: 20px;
+}
+
+#flash2 {
+    width: 130px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #283454;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px 0px 20px;
+}
+
+#flash2:hover {
+    background-color: #10ccf4;
+}
+
+#row16 {
+    background-color: #283454;
+    color: white;
+    height: 90px;
+    width: 370px;
+    font-size: 30px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-weight: bold;
+    position: relative;
+    left: 11px;
+
+}
+
+#platinum {
+    margin: 20px 0px 0px 20px;
+}
+
+#dollar3 {
+    margin: 20px 0px 0px 60px;
+}
+
+#window3 {
+    width: 370px;
+    border-radius: 20px;
+
+    background-color: white;
+    height: 450px;
+    box-shadow: black;
+}
+
+.coffee3 {
+    margin: 20px 0px 0px 20px;
+    color: grey;
+    font-size: 20px;
+
+}
+
+
+
+#quick3 {
+    margin: 10px 0px 0px 20px;
+    color: grey;
+    font-size: 20px;
+}
+
+#flash3 {
+    width: 130px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #283454;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px 0px 20px;
+}
+
+#flash3:hover {
+    background-color: #10ccf4;
+}
+
+.main3 {
+    width: 100vw;
+    height: 600px;
+    background-color: #f8fcfc;
+    margin-top: 30px;
+}
+
+.herevenue {
+    display: flex;
+    flex-direction: row;
+}
+
+#here {
+    position: relative;
+    top: 50px;
+    left: 60px;
+    font-size: 50px;
+    font-weight: 600;
+    padding-right: 10px;
+}
+
+#venue {
+    position: relative;
+    top: 50px;
+    left: 60px;
+    color: #10ccf4;
+    text-decoration: underline;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+#googlemap {
+    margin: 50px 0px 0px 50px;
+    width: 550px;
+    height: 330px;
+    border-radius: 25px;
+
+
+
+}
+
+#titlecard {
+    background-color: #283454;
+    font-size: 40px;
+    width: 500px;
+    height: 100px;
+    color: white;
+    padding: 15px 0px 0px 20px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    font-weight: 700;
+}
+
+#beside {
+    border-radius: 25px;
+    width: 500px;
+    margin: 40px 0px 0px 0px;
+
+}
+
+#cardbody {
+    margin: 30px 0px 0px 30px;
+}
+
+#south {
+    font-size: 30px;
+}
+
+#email {
+    margin-top: 20px;
+    color: grey;
+}
+
+#call {
+    margin-top: 20px;
+    color: grey;
+}
+
+#email:hover {
+    color: #10ccf4;
+}
+
+#call:hover {
+    color: #10ccf4;
+}
+
+.foampic {
+    background-image: url("picture/foampic.PNG");
+    height: 600px;
+    width: 100vw;
+
+}
+
+.foam {
+    background-color: white;
+    height: 450px;
+    width: 50vw;
+    position: relative;
+    left: 300px;
+    top: 100px;
+    border-radius: 25px;
+    ;
+}
+
+#hi {
+    background-color: #283454;
+    height: 100px;
+    width: 50vw;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    position: relative;
+    left: 12px;
+    color: white;
+    padding: 20px 0px 0px 30px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+
+.formdetail {
+    margin: 40px 0px 0px 30px;
+    border-radius: 8px;
+    ;
+    background-color: #f0f8ff;
+    height: 50px;
+    width: 130px;
+}
+
+
+#destroy {
+    width: 70px;
+}
+
+#message {
+    margin: 25px 0px 0px 30px;
+    background-color: #f0f8ff;
+    width: 550px;
+}
+
+#submit {
+    width: 550px;
+    color: white;
+    background-color: #10ccf4;
+    margin: 20px 0px 0px 30px;
+    border-radius: 30px;
+}
+
+#submit:hover {
+    background-color: #283454;
+}
+
+.main4 {
+    height: 400px;
+    width: 100vw;
+    background-color: white;
+}
+
+#fbicon {
+    position: relative;
+    top: 120px;
+    left: 80px;
+}
+
+
+#l2 {
+    display: flex;
+    flex-direction: row;
+    padding: 100px 0px 0px 100px;
+}
+
+
+#event6 {
+    color: #10ccf4;
+    position: relative;
+    
+}
+
+#privacy {
+    display: flex;
+    flex-direction: row;
+    margin: 100px 0px 0px 100px;
+    color: grey;
+
+}
+
+#line3 {
+    width: 80%;
+    position: relative;
+    top: 50px;
+    left: 70px;
+}
+
+#conduct {
+    position: relative;
+    left: 30px;
+}
+
+#terms {
+    position: relative;
+    left: 60px;
+}
+
+#cant {
+    position: relative;
+    left: 90px;
+}
+
+#conduct:hover {
+    color: #10ccf4;
+}
+
+#story:hover {
+    color: #10ccf4;
+}
+
+#terms:hover {
+    color: #10ccf4;
+}
+
+#cant:hover {
+    color: #10ccf4;
+}
+
+#rights {
+    width: 500px;
+    margin: 80px 0px 0px 0px;
+    color: grey;
+}
+
+.all {
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:540px) {
+    .nav {
+        width: 100vw;
+        position: absolute;
+
+    }
+
+    #logo {
+        width: 0px;
+        display: inline-block;
+        height: 20px;
+    }
+
+    #event {
+        font-size: 15px;
+        display: inline-block;
+        position: relative;
+        left: 100px;
+        bottom: 100px;
+
+    }
+
+    .start {
+        font-size: 10px;
+        position: relative;
+        left: 100px;
+        top: 40px;
+
+    }
+
+    #ticket {
+        width: 80px;
+        height: 20px;
+        float: right;
+        position: relative;
+        right: 20px;
+        bottom: 50px;
+        font-size: 10px;
+    }
+
+    #row2 {
+        width: 560px;
+    }
+
+    #leader {
+        font-size: 35px;
+        position: relative;
+        right: 300px;
+    }
+
+    #conf {
+        font-size: 40px;
+        position: relative;
+        right: 230px;
+    }
+
+    #t1 {
+        font-size: 12px;
+        width: 100px;
+        margin: 0px 0px 0px 130px;
+
+
+
+    }
+
+    #t2 {
+        font-size: 12px;
+        width: 100px;
+
+    }
+
+    .frame {
+        width: 500px;
+    }
+
+    #downbut {
+        position: relative;
+        right: 400px;
+    }
+
+    .backimg {
+        height: 1350px;
+        ;
+    }
+
+    #row4 {
+        height: 1000px;
+    }
+
+    #meetbtn {
+        position: relative;
+        right: 50px;
+    }
+
+    #cont3 {
+        position: relative;
+        top: -170px;
+        font-size: 25px;
+        left: 20px;
+    }
+
+    #cont3hr {
+        position: relative;
+        top: -170px;
+        left: 20px;
+    }
+
+    .circle1 {
+        position: relative;
+        top: -200px;
+        left: 20px;
+    }
+
+    #people {
+        position: relative;
+        top: -220px;
+
+    }
+
+    .story1 {
+        font-size: 40px;
+    }
+
+    #lorem {
+        font-size: 20px;
+    }
+
+    #mans {
+        width: 500px;
+        margin-left: 30px;
+    }
+
+    #feature {
+        margin: 30px 0px 0px -20px;
+    }
+
+    .animation {
+        margin-top: -30px;
+        margin-left: 30px;
+        width: 90%;
+    }
+
+    .main {
+        height: 2250px;
+    }
+
+    .together {
+        width: 500px;
+        padding: 30px 0px 30px 0px;
+    }
+
+    .natplanner {
+        margin-top: -30px;
+        width: 90%;
+    }
+
+    .thcoach {
+        margin-top: -30px;
+        width: 90%;
+    }
+
+    .isaman {
+        margin-top: -30px;
+        width: 90%;
+    }
+
+    .samspeak {
+        margin-top: -30px;
+        width: 90%
+    }
+
+    #row7 {
+        width: 540px;
+    }
+
+    #next {
+        position: relative;
+        right: 350px;
+    }
+
+    #schedule {
+        position: relative;
+        left: 230px;
+        bottom: 75px;
+    }
+
+    #card1 {
+        width: 250px;
+        position: relative;
+        right: 100px;
+    }
+
+    #card2 {
+        width: 250px;
+    }
+
+    #card3 {
+        width: 250px;
+        position: relative;
+        right: 60px;
+    }
+
+    #card4 {
+        width: 250px;
+        position: relative;
+        left: 40px;
+    }
+
+    #row9 {
+        width: 540px;
+    }
+
+    #meeting1 {
+        position: relative;
+        right: 75px;
+        width: 85%;
+    }
+
+    .wilson {
+        font-size: 15px;
+    }
+
+    #ce {
+        font-size: 10px;
+        margin-top: 10px;
+    }
+
+    #meeting2 {
+        position: relative;
+        right: 75px;
+        width: 85%;
+    }
+
+    #meeting3 {
+        position: relative;
+        right: 75px;
+        width: 85%;
+    }
+
+    .backimg2 {
+        margin-top: 30px;
+    }
+
+    #become {
+        font-size: 35px;
+    }
+
+    #become2 {
+        font-size: 35px;
+    }
+
+    #dol {
+        font-size: 13px;
+    }
+
+    #register {
+        position: relative;
+        bottom: 120px;
+        left: 70px;
+    }
+
+    #get {
+        font-size: 22px;
+        position: relative;
+        right: 270px;
+    }
+
+    #tik {
+        font-size: 22px;
+        position: relative;
+        left: 270px;
+        bottom: 30px;
+    }
+
+    #window1 {
+        position: relative;
+        right: 25px;
+        width: 460px;
+
+    }
+
+    #row14 {
+        width: 460px;
+    }
+
+    #window2 {
+        position: relative;
+        left: 5px;
+        top: 20px;
+        width: 460px;
+    }
+
+    #row15 {
+        width: 460px;
+    }
+
+    #window3 {
+        position: relative;
+        left: 35px;
+        top: 50px;
+        width: 460px;
+    }
+
+    #row16 {
+        width: 460px;
+    }
+
+    .herevenue {
+        font-size: 15px;
+    }
+
+    #googlemap {
+        width: 500px;
+        position: relative;
+        right: 30px;
+    }
+
+    .main3 {
+        height: 950px;
+    }
+
+    #beside {
+        position: relative;
+        left: 20px;
+    }
+
+    .foampic {
+        width: 540px;
+        height: 800px;
+        padding: 0px 20px 0px 10px;
+    }
+
+    .foam {
+        width: 520px;
+        position: relative;
+        left: -2px;
+        height: 600px;
+        
+    }
+
+    #hi {
+        width: 520px;
+    }
+
+    #message {
+        width: 400px;
+    }
+
+    #mail {
+        width: 400px;
+    }
+
+    #user {
+        width: 400px;
+    }
+
+    #sub {
+        width: 400px;
+    }
+    #submit{width: 400px;}
+    #event6{font-size: 25px;
+        margin-right: 100px;
+    }
+    #lgo6{height: 60px;
+        position: relative;
+        right: 80px;
+  }
+   
+  #unknown{width: 500px;}
+  .fafa-facebook{font-size: 16px;}
+  .fafa-whatsapp{font-size: 16px;}
+  .fafa-instagram{font-size: 16px;}
+  .fafa-youtube-play{font-size: 16px;
+position: relative;
+bottom: 1000px;}
+
+#privacy{position: relative;
+right: 60px;}
+
+#rights{position: relative;
+left: 40px;}
+    }
+  
+ 
+    
+    @media (max-width:740)
+{
+    #nav{width:740px ;}
+    #logo{}
+
+}
